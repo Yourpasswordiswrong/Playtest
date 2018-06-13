@@ -14,6 +14,8 @@
 
   * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
 
+* [Sucky Truck Game: Nathaniel Rabago](Games/SuckyTruckGame/index.html) --- This is a quick truck game where you race to the finish to win. Very quick game and very sucky.
+
 ## Variations
 
 <details>
